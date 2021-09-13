@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zujie Liang</h1>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/jokieleung/count.svg" />
+  Welcome! You are the <img src="https://profile-counter.glitch.me/jokieleung/count.svg" /> visitor!
 </p>
 
 <a href="https://github.com/jokieleung">
