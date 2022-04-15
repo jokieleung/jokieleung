@@ -17,5 +17,5 @@
 
 - 😄 Hi there, this is Zujie Liang (or "Jokie Leung" in Cantonese). I am a master student at Sun Yat-Sen University (SYSU).
 - 🔭 My research interest includes Natural Language Processing, Machine Learning, and Computer Vision.
-- 👯 I am open to collaboration on research, and I'm in the job market now (will obtain M.S. degree in 2022), feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
+- 👯 I am open to collaboration on research, feel free to contact me via [E-mail](mailto:jokieleung@outlook.com)!
 - ⚡ Please check my [homepage](https://jokieleung.github.io) for my CV and latest update!
